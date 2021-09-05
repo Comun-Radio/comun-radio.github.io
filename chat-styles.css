@@ -1,3 +1,7 @@
+.theme--night header {
+  display: none;
+}
+
 .theme--night .header-bar {
   background-color: rgb(27, 27, 27);
 }
@@ -115,6 +119,7 @@ color:rgba(255,255,255,0.3);
   font-weight: 400;
   font-size: 0.94em;
   line-height: 1.5;
+  padding-top: 30px; /* header hidden, menos padding */
 }
 .theme--night .post-name {
   color:rgba(255,255,255,0.3);
