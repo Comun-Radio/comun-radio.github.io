@@ -44,7 +44,7 @@ background-color:rgba(0,0,0,0.3);
   background-color:#26282c;
 }
 
-.theme--night, .isIframe {
+.theme--night, .theme--night body {
   background-color:#26282c;
 }
 
